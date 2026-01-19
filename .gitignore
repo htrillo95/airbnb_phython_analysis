@@ -24,5 +24,5 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Data files - exclude large CSV files (use Git LFS if you need to track them)
-*.csv
+# Data files - tracked with Git LFS
+# *.csv (now tracked via Git LFS)
